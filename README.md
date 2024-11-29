@@ -18,6 +18,6 @@
 - 🌐 [X Profile](https://x.com/Bugsbuuny2010)
 
 ✨
+![bunny girl](https://github.com/user-attachments/assets/de2972e9-7790-4f2e-bb68-6e6ec6785eb4)
 
 
-![me](https://github.com/user-attachments/assets/f4c86604-9c3d-4447-a770-45abdcf13d1b)
