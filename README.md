@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Bugsbunny! 
 
-🎓 **14 years old | Python Developer | AI Researcher |Researcher security**
+🎓 **| Python Developer | AI Researcher |Researcher security**
 
 🔍 **Passionate About:**  
 - 🛡️ Cybersecurity & Ethical Hacking  
