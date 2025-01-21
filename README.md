@@ -26,8 +26,9 @@
   </g>
 </svg>
 
-# 👋 Hi, I'm Bugsbunn![23](https://github.com/user-attachments/assets/184982b8-f6b3-498d-91eb-5870f822dd23)
-y! 
+# 👋 Hi, I'm Bugsbunny! 
+![23](https://github.com/user-attachments/assets/184982b8-f6b3-498d-91eb-5870f822dd23)
+ 
 
 
 🎓 **| Python Developer | AI Researcher |Researcher security**
