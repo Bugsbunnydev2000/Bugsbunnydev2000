@@ -18,10 +18,14 @@
 
 🌱 **Learning:** Advanced AI techniques & system security.  
 
+✨**prompt-injection vulnerability on LLMs**
+
+**Python/HTML/CSS**
+
 📫 **Reach Me At:**  
 - 🌐 [X Profile](https://x.com/Bugsbuuny2010)
 
-✨
+
 ![bunny girl](https://github.com/user-attachments/assets/de2972e9-7790-4f2e-bb68-6e6ec6785eb4)
 
 
