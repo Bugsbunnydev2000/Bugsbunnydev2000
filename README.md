@@ -3,7 +3,9 @@
 # 👋 Hi, I'm Bugsbunny! 
 ![23](https://github.com/user-attachments/assets/184982b8-f6b3-498d-91eb-5870f822dd23)
  
+if you think what i do is cool >.<
 
+Ethereum : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
 
 🎓 **| Python Developer | AI Researcher |Researcher security**
 
