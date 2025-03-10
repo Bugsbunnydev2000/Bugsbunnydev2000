@@ -5,7 +5,7 @@
  
 if you think what i do is cool >.<
 
-Meta-Mask : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
+Meta-Mask(ETH) : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
 
 🎓 **| Python Developer | AI Researcher |Researcher security**
 
