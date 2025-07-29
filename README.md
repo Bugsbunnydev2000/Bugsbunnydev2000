@@ -18,9 +18,7 @@ Meta-Mask(ETH) : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
 - **[PARMIDA-V.0](https://github.com/Bugsbunnydev2000/PARMIDA-V.0):** A professional stock market analyzer powered by LLMs.
 - 
 - **[Body Language & Speech Analysis](https://github.com/Bugsbunnydev2000/Analysis-of-body-language-and-speech-in-video):** Analyzing behavior in video using AI.
-- 
-- **[Exfiltration-Suite-v1.0](https://github.com/Bugsbunnydev2000/Exfiltration-Suite-v1.0):** A simple Exfiltration Malware.
-
+ 
 - **[Smart-Contract-Scanner](https://github.com/Bugsbunnydev2000/Smart-Contract-Scanner):** A Python-based tool for auditing smart contracts on Ethereum, Binance Smart Chain (BSC), and Polygon
 
 
