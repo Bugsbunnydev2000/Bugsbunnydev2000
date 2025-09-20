@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Bugsbunny! 
+# 👋 Hi, I'm 0x_XRVØ ! 
 ![23](https://github.com/user-attachments/assets/184982b8-f6b3-498d-91eb-5870f822dd23)
  
 if you think what i do is cool >.<
