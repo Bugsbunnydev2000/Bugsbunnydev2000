@@ -10,7 +10,7 @@ ETH  : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
 🎓 **| Python Developer | AI Researcher |LLM  Engineer**
 
 🔍 **Passionate About:**  
-- 🛡️ Cybersecurity & Ethical Hacking  
+- 🛡️ security & hacking  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📈 Data Analysis & LLMs  
 
@@ -21,9 +21,7 @@ ETH  : 0x2D3dD9fCcE17823EE4853130c47d3F9B843A939F
 - **[Smart-Contract-Scanner](https://github.com/Bugsbunnydev2000/Smart-Contract-Scanner):** A Python-based tool for auditing smart contracts on Ethereum, Binance Smart Chain (BSC), and Polygon
 
 
-🌱 **Learning:** Advanced AI techniques & system security.  
 
-✨**prompt-injection vulnerability on LLMs**
 
 **Python/HTML/CSS**
 
